@@ -36,12 +36,13 @@ Here, we found out that
   
                precision    recall  f1-score   support
 
-   malignant       1.00      0.98      0.99        52
-      benign       0.98      1.00      0.99        62
+    malignant       1.00      0.98      0.99        52
+       benign       0.98      1.00      0.99        62
 
-    accuracy                           0.99       114
-   macro avg       0.99      0.99      0.99       114
-weighted avg       0.99      0.99      0.99       114
+     accuracy                           0.99       114
+    macro avg       0.99      0.99      0.99       114
+ weighted avg       0.99      0.99      0.99       114
+
 Then at last, we use the seaborn and matplotlib.pyplot library in order to evaluate the confusion matrix of the applied model!
 
 ## Libraries Used
