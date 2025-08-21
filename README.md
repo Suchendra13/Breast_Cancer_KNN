@@ -32,7 +32,8 @@ Here, we found out that
 
 * The *accuracy* of **KNN** : `0.9912`
 
-* Classification Matrix of KNN Model : 
+* Classification Matrix of KNN Model :
+  
                precision    recall  f1-score   support
 
    malignant       1.00      0.98      0.99        52
